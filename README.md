@@ -1,4 +1,8 @@
-# Pain Intensity Classification Papers
+# Awesome Pain Intensity Classification Papers
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<!-- ![Stars](https://img.shields.io/github/stars/zhenyuanlu/awesome-pain-intensity-classification-papers)
+[![Visits Badge](https://badges.pufler.dev/visits/zhenyuanlu/awesome-pain-intensity-classification-papers)](https://badges.pufler.dev/zhenyuanlu/awesome-pain-intensity-classification-papers) -->
+<!-- ![Forks](https://img.shields.io/github/forks/zhenyuanlu/awesome-pain-intensity-classification-papers) -->
 
 (to be updated)
 
