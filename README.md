@@ -13,7 +13,7 @@
 ## Latest Review/Survey papers
 Year | Topic
 ------------ | -------------
-2022  | [Review and Analysis of Pain Research Literature through Keyword Co-occurrence Networks](https://arxiv.org/abs/2211.04289)<br>*arXiv*
+2023  | [Review and Analysis of Pain Research Literature through Keyword Co-occurrence Networks](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000331)<br>*Plos Digital Health*
 2021 | [Pain and Stress Detection Using Wearable Sensors and Devices—A Review](https://www.mdpi.com/1424-8220/21/4/1030/htm) <br>*sensors*|
 2021 | [Machine Learning in Pain Medicine: An Up-To-Date Systematic Review](https://link.springer.com/article/10.1007/s40122-021-00324-2) <br>*Pain and Therapy*| 
 2020 | [Sensor Technologies to Manage the Physiological Traits of Chronic Pain: A Review](https://www.mdpi.com/1424-8220/20/2/365) <br>*sensors*| 
