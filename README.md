@@ -27,12 +27,15 @@ Year | Topic
 
 Year | Topic | Model | Signal | Dataset 
 ------- | ------- | ------- | ------- | ------- 
+2023 | [Objective Measurement of Subjective Pain Perception with Autonomic Body Reactions in Healthy Subjects and Chronic Back Pain Patients: An Experimental Heat Pain Study](https://www.mdpi.com/1424-8220/23/19/8231)<br> *sensors*| RF | BCP, ECG, EDA, EMG, Resp | ChronPain, PainMonit |
+2023 | [Explainable Artificial Intelligence (XAI) in Pain Research: Understanding the Role of Electrodermal Activity for Automated Pain Recognition](https://www.mdpi.com/1424-8220/23/4/1959)<br> *sensors*| RF, MLP, CNN, CAE, CL, Transformer | EDA | BioVid, PainMonit |
 2023 | [Transformer Encoder with Multiscale Deep Learning for Pain Classification Using Physiological Signals](https://arxiv.org/abs/2303.06845) <br> *arxiv* | Transformer Encoder+Temporal Conv+SEResNet; <br> Code: [github](https://github.com/zhenyuanlu/PainAttnNet)  | EDA | BioVid |
 2022 | [Personalized Deep Bi-LSTM RNN Based Model for Pain Intensity Classification Using EDA Signal](https://www.mdpi.com/1424-8220/22/21/8087)<br>*sensors*  | BiLSTM + XGBoost  | EDA  | Proprietary Dataset: Cold Pain Data  |  
 2022 | [Tree-Based Models for Pain Detection from Biomedical Signals](https://link.springer.com/chapter/10.1007/978-3-031-09593-1_14)<br>*ICOST 2022*  | AdaBoost, XGBoost, TabNet, Random Forest (RF) | EDA,ECG | BioVid | 
+2021 | [Classification of Heat-Induced Pain Using Physiological Signals](https://link.springer.com/chapter/10.1007/978-3-030-49666-1_19)<br> *ITIB 2021* | RF, MLP, CNN | BVP, ECG, EDA, EMG, Resp | Heat-pain data
 2021 | [Multi-Modal Pain Intensity Assessment Based on Physiological Signals: A Deep Learning Perspective](https://www.frontiersin.org/articles/10.3389/fphys.2021.720464/full) <br> *Frontiers in Physiology* | Self-supervised Learning, Auto-Encoder | EMG + ECG + EDA | BioVid; SenseEmotion | 
 2021 | [Automated Nociceptive Pain Assessment Using Physiological Signals and a Hybrid Deep Learning Network](https://ieeexplore.ieee.org/document/9194710)  <br> *IEEE Sensors Journal*  | CNN + LSTM | EDA, ECG |BioVid; Proprietary Dataset: Real-time Data  | 
-2021 | [Comparison of Feature Extraction Methods for Physiological Signals for Heat-Based Pain Recognition](https://www.mdpi.com/1424-8220/21/14/4838) <br> *sensors*| MLP | EDA | BioVid | 
+2021 | [Comparison of Feature Extraction Methods for Physiological Signals for Heat-Based Pain Recognition](https://www.mdpi.com/1424-8220/21/14/4838) <br> *sensors*| RF, MLP, CNN, LSTM, CAE | EDA | BioVid, PainMonit|
 2021 | [Pain Recognition With Electrocardiographic Features in Postoperative Patients: Method Validation Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8196363/) <br>*JMIR*| ADABoost, XGBoost, random forest, SVM, KNN |ECG |BioVid as baseline; UCI_iHurtDB |
 2021  | [Exploration of physiological sensors, features, and machine learning models for pain intensity estimation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254108)<br>*PLOS ONE*  | SVM  | EDA | BioVid   | 
 2021 | [Objective Pain Assessment Using Wrist-based PPG Signals: A Respiratory Rate Based Method](https://ieeexplore.ieee.org/abstract/document/9630002)<br>*EMBC* | ADABoost, XGBoost, random forest, SVM, KNN |PPG | UCI_iHurtDB |
